@@ -10,7 +10,7 @@ Sistema low-code desenvolvido para eliminar a geração manual de códigos SKU e
 
 A solução transforma um fluxo manual em um **motor de sequência inteligente**, garantindo unicidade, rastreabilidade e escalabilidade.
 
-![Tela do aplicativo](Apps.png)
+<img src="Apps.png" alt="Tela do aplicativo" width="600"/>
 ---
 
 ## 🏗️ Arquitetura
